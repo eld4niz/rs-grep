@@ -15,7 +15,10 @@ rs-grep "pattern" "file.txt"
 ```
 ## Dependencies
 Clap - Command Line Argument Parser for Rust
+
 Regex - Regular expressions for Rust
+
 File - File I/O for Rust
+
 IO - Input/Output for Rust
 
